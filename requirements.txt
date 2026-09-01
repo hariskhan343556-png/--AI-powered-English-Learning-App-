@@ -1,0 +1,4 @@
+streamlit>=1.36,<2
+groq>=0.31.0
+pyspellchecker>=0.8.1
+gTTS>=2.5.4
