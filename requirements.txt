@@ -1,5 +1,0 @@
-streamlit
-pyspellchecker
-groq
-gtts
-audio-recorder-streamlit
