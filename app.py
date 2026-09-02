@@ -72,7 +72,7 @@ with st.sidebar:
 if not st.session_state.groq_api_key:
     st.warning("👈 Enter your Groq API key in the sidebar to get started.")
 
-st.title("🗣️ English Coach 2.0")
+st.title("English Coach 2.0")
 st.caption("AI-powered writing & speaking feedback for IELTS, PTE, and DET")
 
 tab_writing, tab_speaking, tab_progress = st.tabs(
