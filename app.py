@@ -20,7 +20,6 @@ from utils import (
 
 st.set_page_config(
     page_title="English Coach 2.0",
-    page_icon="🗣️",
     layout="wide",
 )
 
